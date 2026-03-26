@@ -1,7 +1,6 @@
 # ATM-Simulation-Java
 Console based ATM system using JAVA!
-# ATM-Simulation-Java
-Console based ATM system using JAVA!
+
 # 💳 Java ATM Simulation System
 
 👩‍💻 Developed by: **Nirjala Dixit**
