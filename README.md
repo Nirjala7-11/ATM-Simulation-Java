@@ -52,7 +52,7 @@ It simulates real-world banking operations like account creation, login, withdra
 
 1. Compile the program:
 ```bash
-javac Main.java
+javac atmfinal.java
 ```
 
 ## 📊 Sample Output
