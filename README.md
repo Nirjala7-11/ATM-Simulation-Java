@@ -58,7 +58,9 @@ javac atmfinal.java
 ## 📊 Sample Output
 ------ MINI STATEMENT ------
 Deposit : ₹2000 | 26-03-2026 20:45:12
+
 Withdrawal : ₹500 | 26-03-2026 20:47:03
+
 Current Balance: ₹51500
 
 
